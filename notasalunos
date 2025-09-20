@@ -1,0 +1,24 @@
+Utilização de estruturas de dados (arrays), laços de repetição e estruturas condicionais em Java, armazenar as notas de múltiplos alunos em um array. 
+Realizar o cálculo da média da turma a partir das notas lidasa utilizar estruturas condicionais (if/else) para classificar o desempenho da turma.
+
+programa que:
+Leia as notas de 5 alunos.
+Calcule a média da turma.
+Exiba a classificação:
+Média >= 9 → "Excelente"
+Média >= 7 → "Bom"
+Média >= 5 → "Regular"
+Média < 5 → "Insuficiente"
+
+-------------
+
+Use of Data Structures (arrays), Loops, and Conditional Statements in Java
+The program should:
+Read the grades of 5 students.
+Store the grades in an array.
+Calculate the class average.
+Use conditional statements (if/else) to classify the class performance:
+Average ≥ 9 → "Excellent"
+Average ≥ 7 → "Good"
+Average ≥ 5 → "Fair"
+Average < 5 → "Insufficient"
