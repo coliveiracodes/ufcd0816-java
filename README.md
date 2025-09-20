@@ -1,7 +1,5 @@
 # ufcd0816-java
-Formação da UFCD 0816 Programação em JAVA 
-
-Programação de sistemas distribuídos - JAVA
+Formação da UFCD 0816 Programação de sistemas distribuídos - JAVA
 
 • Implementar programas básicos em Java.
 • HelloWorld
